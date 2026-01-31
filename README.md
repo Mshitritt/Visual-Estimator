@@ -165,12 +165,12 @@ For each frame, the pipeline records timing information, pixel displacement, est
 Pixel displacement is converted to an estimated horizontal ground displacement using the camera geometry assumptions and known camera height. Combined with frame timing, this yields an estimated speed for each frame interval.
 <p align="left">
   <figure style="display:inline-block; width:40%; text-align:center;">
-    <img src="outputs/speed_curve_ORB.png" width="330/>
+    <img src="outputs/speed_curve_ORB.png" width="330"/>
 
   </figure>
 
   <figure style="display:inline-block; width:40%; text-align:center;">
-    <img src="outputs/speed_curve_LK.png" width="330/>
+    <img src="outputs/speed_curve_LK.png" width="330"/>
 
   </figure>
 
