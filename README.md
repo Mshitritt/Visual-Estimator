@@ -59,12 +59,12 @@ Each frame is converted to grayscale and masked using a predefined region of int
 
 <p align="left">
   <figure style="display:inline-block; width:40%; text-align:center;">
-    <img src="outputs/frame0.png" alt="Original frame" width="100%"/>
+    <img src="outputs/frame0.png" alt="Original frame" width="33%"/>
     <figcaption>Original video frame 0</figcaption>
   </figure>
 
   <figure style="display:inline-block; width:40%; text-align:center;">
-    <img src="outputs/frame0_roi_overlay.png" alt="ROI overlay" width="100%"/>
+    <img src="outputs/frame0_roi_overlay.png" alt="ROI overlay" width="33%"/>
     <figcaption>ROI mask overlay applied to the frame </figcaption>
   </figure>
 </p>
