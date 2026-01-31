@@ -1,0 +1,14 @@
+# --- Generated / debug data ---
+frames/
+OLD/
+
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
